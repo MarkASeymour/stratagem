@@ -1,0 +1,2 @@
+# stratagem
+Seymour's Stratagem
